@@ -1,0 +1,27 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "welcome to the blog", 
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "tags": [
+                "Webdev",
+                "Coding",
+                "News",
+                "Languages"
+            ] 
+        },
+        {
+            "id": 2,
+            "title": "top 5 languages to learn", 
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "tags": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "VueJs"
+            ] 
+        }
+
+    ]
+}
